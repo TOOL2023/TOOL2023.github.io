@@ -2,6 +2,8 @@ All Tool
 
 https://tool2023.github.io/
 
+You can use the issue function to suggest online tools you want to add
+
 ---
 
 <div id="footer" class="footer-top">
