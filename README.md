@@ -8,7 +8,7 @@
                      </p>
                      <div class="footer-social-icon">
                         
-                        <div  class="col-lg-3 col-md-3" style="float: left;">
+<div  class="col-lg-3 col-md-3" style="float: left;">
                            <p>Bitcoin
                               <br>3Bwdrz4H25sW7zFtLWTKhtrRwKg2i6o9GF
                            </p>
