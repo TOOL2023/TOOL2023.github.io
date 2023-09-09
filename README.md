@@ -33,22 +33,3 @@
 
 
 </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="footer-bottom">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-6 col-md-6  col-sm-12">
-                  <div class="copy-right-text">
-                     <p>
-                        &copy;2016 - <script>document.write(new Date().getFullYear());</script> 
-                        All rights reserved by <script>document.write(location.hostname)</script>
-                     </p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
