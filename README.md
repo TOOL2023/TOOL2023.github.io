@@ -2,7 +2,7 @@ All Tool
 
 https://tool2023.github.io/
 
-You can use the issue function to suggest online tools you want to add
+You can use the [issue](https://github.com/TOOL2023/TOOL2023.github.io/issues) function to suggest online tools you want to add
 
 ---
 
