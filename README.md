@@ -10,7 +10,7 @@ https://tool2023.github.io/
                <div class="col-md-12">
                   <div class="footer-top-inner">
                      <p class="text-center">
-                        <strong>我們需要您的持續支持。請贊助我們來持續各項服務</strong>
+                        <strong>We need your continued support. Please sponsor us to continue our services</strong>
                      </p>
                      <div class="footer-social-icon">
                         
